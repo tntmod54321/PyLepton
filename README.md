@@ -1,5 +1,5 @@
 # install
-  `python -m pip install -r requirements.txt`
+run `py -m pip install .` in repo directory
 
 # usage
 ```
